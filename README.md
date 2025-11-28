@@ -294,13 +294,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Muhammad Ahmad**
-- 🎓 **Computer Science Student**
+**Muhammad Hamza Nawaz**
+- 🎓 **Data Scientist**
 - 🏛️ **Al-khawarizmi Institute of Computer Science**
 - 🏫 **University of Engineering and Technology (UET), Lahore**
-- 📧 Email: your.email@uet.edu.pk
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🔗 GitHub: [Your GitHub Profile]
+- 📧 Email: iamhamzanawaz14@gmail.com
+- 💼 LinkedIn:(https://www.linkedin.com/in/muhammad-hamza-nawaz-a434501b3/) 
+- 🔗 GitHub: (https://github.com/hamzanawazsangha/NeuroScan-AI---Alzheimer-s-Detection-System)
 
 ### 🎓 Academic Affiliation
 This project was developed as part of my academic journey at the prestigious **Al-khawarizmi Institute of Computer Science, University of Engineering and Technology (UET), Lahore**. The institute's emphasis on cutting-edge research and practical implementation provided the perfect environment for developing this advanced AI healthcare solution.
@@ -325,8 +325,8 @@ This project was developed as part of my academic journey at the prestigious **A
 ### 📞 Contact & Support
 
 For questions, support, or collaboration opportunities:
-- 📧 **Email**: your.email@uet.edu.pk
-- 💬 **Issues**: [GitHub Issues](https://github.com/yourusername/neuroscan-ai/issues)
+- 📧 **Email**: iamhamzanawaz14@gmail.com
+- 💬 **Issues**: [GitHub Issues](https://github.com/hamzanawazsangha/NeuroScan-AI---Alzheimer-s-Detection-System/issues) 
 - 📚 **Documentation**: [Full Documentation](docs/)
 
 ### 🙏 Acknowledgments
@@ -342,6 +342,6 @@ For questions, support, or collaboration opportunities:
 
 **⭐ Don't forget to star this repository if you find it helpful!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/neuroscan-ai&type=Date)](https://star-history.com/#yourusername/neuroscan-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/neuroscan-ai&type=Date)](https://star-history.com/#hamzanawazsangha/neuroscan-ai&Date)
 
 </div>
