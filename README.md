@@ -342,6 +342,6 @@ For questions, support, or collaboration opportunities:
 
 **⭐ Don't forget to star this repository if you find it helpful!**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/neuroscan-ai&type=Date)](https://star-history.com/#hamzanawazsangha/neuroscan-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=hamzanawazsangha/neuroscan-ai&type=Date)](https://star-history.com/#hamzanawazsangha/neuroscan-ai&Date)
 
 </div>
